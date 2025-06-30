@@ -92,3 +92,15 @@ body {
 .song_frame:hover .song_frame_image {
   display: none;
 }
+
+header h1 {
+  position: relative;
+  top: 20px;
+}
+
+@media (max-width: 500px) {
+  header h1 {
+    position: relative;
+    top: 0px;
+  }
+
