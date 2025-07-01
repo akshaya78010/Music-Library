@@ -101,6 +101,6 @@ header h1 {
 @media (max-width: 500px) {
   header h1 {
     position: relative;
-    top: 0px;
+    top: -20px;
   }
 
