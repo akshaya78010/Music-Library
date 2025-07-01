@@ -100,7 +100,7 @@ header h1 {
 
 @media (max-width: 500px) {
   header h1 {
-    position: absolute;
-    margin-top: 0px;
+    position : relative;
+    font-size : 20px;
   }
 
